@@ -1,0 +1,21 @@
+baseURL = 'https://ademcut.github.io/'
+languageCode = 'en-us'
+title = 'Adem Cutura'
+theme = 'hugo-coder'
+
+[params]
+author = 'Adem Cutura'
+info = 'Unlocking insights, shaping the future as a data scientist.'
+avatarURL = '/images/profile.jpg'
+hidecolorschemetoggle = true
+
+[[params.social]]
+  name = "GitHub"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/ademcut/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/ademcut/"
