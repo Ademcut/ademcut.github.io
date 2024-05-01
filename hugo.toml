@@ -2,6 +2,7 @@ baseURL = 'https://ademcut.github.io/'
 languageCode = 'en-us'
 title = 'Adem Cutura'
 theme = 'hugo-coder'
+staticDir = ['static']
 
 [params]
 author = 'Adem Cutura'
